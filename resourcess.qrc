@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>img_476114.png</file>
+        <file>exit.png</file>
+    </qresource>
+</RCC>
